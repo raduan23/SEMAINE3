@@ -1,0 +1,43 @@
+h1{
+    color: blue;
+}
+h2{
+    background-color:brown;
+    color: white;
+}
+.bobo{
+    float: left;
+}
+#bingo{
+    text-align: left;
+}
+.track{
+    width:100%;
+    background: url("https://1.bp.blogspot.com/-8h1PgjBKi24/UCM5Cu1podI/AAAAAAAAAAc/GXwOOptiypY/s1600/nature-wallpaper-hd.jpg") no-repeat center center fixed;
+    background-size: cover;
+    height: 400px;
+}
+nav nav{
+    display: inline-block;
+    margin: 0px 15px;
+    float: right;
+}
+
+.ciao{
+    float: left;
+    font-size: 3em;
+    margin-left: 0px;
+}
+.bro .toto{
+    float: left;
+}
+.ben img{
+    float: right;
+}
+main {
+    display: block;
+}
+.ken img{
+    float:right;
+}
+
